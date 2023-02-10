@@ -1,0 +1,13 @@
+.bajandoLogo{
+    margin-top: 3%;
+    padding-bottom: 3%;
+}
+.imgPresentacion{
+    background-image: url("../img/hero.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-image: inherit;
+    background-image: initial;
+    background-image: revert;
+    background-image: revert-layer;
+    background-image: unset;
+}
